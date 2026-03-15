@@ -10,7 +10,7 @@ Projede modern web tasarım teknikleri kullanılarak **mobil, tablet ve masaüst
 
 ## 🎥 Proje Önizleme
 
-![Proje Demo](assest/netflix-clone.gif)
+![Proje Demo](assests/netflix-clone.gif)
 
 ## ✨ Özellikler
 
